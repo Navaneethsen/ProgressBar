@@ -11,7 +11,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Navaneeth Sen <navaneeth.sen@multichoice.co.za>
+ * @author Navaneeth Sen
  */
 
 
